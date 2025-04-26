@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on coding and hardware projects<br>👯 I’m looking to collaborate on tech projects, research and hackathons<br>🤝 I’m looking for help with resume building and job prep<br>🌱 I’m currently learning about PCB and Coding tools<br>
+🔭  I am currently engaged in coding and hardware development projects.<br>👯 I am seeking opportunities to collaborate on technology projects, research initiatives, and hackathons.<br>🤝 I’m looking for help with resume building and job prep<br>🌱 I am actively learning about PCB design and coding tools.<br>
 
 
 ## 🌐 Socials:
