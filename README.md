@@ -32,25 +32,6 @@
 
 ---
 
-## 🚀 Featured Work
-
-🔹 **RISC-V Processor & Custom Coprocessor**
-RTL design and FPGA implementation using Verilog/SystemVerilog.
-
-🔹 **SiC Schottky Barrier Diode Optimization**
-Semiconductor device modeling and optimization using Silvaco TCAD.
-
-🔹 **100V Power MOSFET Modeling**
-Device simulation, breakdown analysis, and optimization using TCAD.
-
-🔹 **RTL Design & Formal Verification**
-SystemVerilog-based cache controller with verification and formal analysis.
-
-🔹 **AI-Based EV Socket Detection**
-Computer vision project using YOLO for EV charging socket detection.
-
----
-
 ## 🔬 Research Interests
 
 * VLSI & ASIC Design
