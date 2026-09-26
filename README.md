@@ -4,16 +4,12 @@
 👯 I am seeking opportunities to collaborate on technology projects, research initiatives, and hackathons.
 🤝 I’m looking to connect with researchers, engineers, and industry professionals in the semiconductor and VLSI space.
 
-🌐 **[Visit My Portfolio](https://khyathi-portfolio-5h1r977vw-khyathiatmakuru-gmailcoms-projects.vercel.app)**
-
----
+🌐 **[Visit My Portfolio](https://khyathi-portfolio-jet.vercel.app/)**
 
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/khyathi-atmakuru)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:khyathiatmakuru@gmail.com)
-
----
 
 ## 💻 Tech Stack
 
@@ -30,8 +26,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=Arduino\&logoColor=white)
 
----
-
 ## 🔬 Research Interests
 
 * VLSI & ASIC Design
@@ -43,8 +37,6 @@
 * TCAD Simulation
 * Hardware Acceleration
 * AI/ML for Semiconductor Applications
-
----
 
 Made with ❤️ by **Kat** | VLSI Enthusiast & Builder
 
